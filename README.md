@@ -72,3 +72,48 @@ The goal is to **learn by building** and track my progress publicly.
 ---
 
 ## 📂 Repository Structure
+📁 laravel-learning
+┣ 📁 basics
+┣ 📁 crud
+┣ 📁 authentication
+┣ 📁 projects
+┗ 📄 README.md
+
+
+---
+
+## 🧠 What You’ll Find Here
+
+- Beginner-friendly explanations  
+- Clean and structured code  
+- Real examples instead of just theory  
+- Continuous updates as I learn  
+
+---
+
+## 📈 Progress Tracking
+
+I’ll keep updating this repository regularly as I learn new concepts and build projects.
+
+---
+
+## 🤝 Contributing
+
+This is a personal learning repository, but suggestions are always welcome!  
+Feel free to:
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 💡 Suggest improvements  
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: https://github.com/animesh363  
+- Portfolio: https://animeshdev.online  
+
+---
+
+## 💡 Note
+
+> This repository is part of my learning journey — expect improvements, mistakes, and growth along the way 🚀
